@@ -6,4 +6,3 @@
 - The Prophet Prediction notebook shows how to work with Facebook's time series library prophet: https://facebook.github.io/prophet/
 
 Enjoy!
-
